@@ -1,2 +1,2 @@
-
-Biomedical Optics and Medical Imaging. (BOIMG)
+# biomedical-optics-and-medical-imaging
+Biomedical Optics and Medical Imaging Group  (BOMIG)
